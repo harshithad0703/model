@@ -6,7 +6,7 @@ const Header = {
     },
   ],
 };
-const Home = {
+const home = {
     wish: "hi/hello",
     name: "name of the person",
     role: "job role in the company",
@@ -17,7 +17,7 @@ const Home = {
         },
     ],
 };
-const About = {
+const about = {
     profileImage: "url to image",
     content: [
         {
@@ -26,7 +26,7 @@ const About = {
         },
     ],
 };
-const Education =[
+const education =[
         {
             cardHeading: "education level",
             name: "name of the school or college",
@@ -34,7 +34,7 @@ const Education =[
             percentage: "obtained percentage",
         },
     ];
-const Footer = {
+const footer = {
     socailMediaIcons: [
         { 
             icon: "class of the i tag", href: "link for the icon" 
